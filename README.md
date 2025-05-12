@@ -4,4 +4,4 @@ This will be used for tracking the progress of Advanced Metering Infrastructure 
 + Our current install focus area
 + Anticipated install areas for the next 30 days
 
-The map is built with [https://python-visualization.github.io/folium/latest/](Folium) and data is ingested from AUD data sources.
+The map is built with (https://python-visualization.github.io/folium/latest/)[Folium] and data is ingested from AUD data sources.
